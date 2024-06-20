@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects related to web development and user experience design.
 - 🤔 I’m looking for help with improving my skills in database optimization and scaling applications for high traffic.
 - 💬 Ask me about my journey into tech, my favorite programming languages, or any tips for beginners in coding.
-- 📫 How to reach me: You can reach me via [Email](https://mail.google.com/mail/u/0/#inbox)or follow me on GitHub at [github.com](Erika-Wanjiru).
+- 📫 How to reach me: You can reach me via [Email](https://mail.google.com/mail/u/0/#inbox) or follow me on GitHub at [github.com](Erika-Wanjiru).
