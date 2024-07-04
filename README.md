@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on building my first full-stack web application using React and Node.js.
+- 🔭 I’m currently working on building my first full-stack web application.
 - 🌱 I’m currently learning about full-stack development, focusing on React for the frontend and Node.js for the backend.
 - 👯 I’m looking to collaborate on open-source projects related to web development and user experience design.
 - 🤔 I’m looking for help with improving my skills in database optimization and scaling applications for high traffic.
